@@ -1,0 +1,16 @@
+{
+ "code": "M475",
+ "connector": "RTO-144",
+ "type": "M475 Monitor Module",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M475/M475.rto144.json"
+ ]
+}
