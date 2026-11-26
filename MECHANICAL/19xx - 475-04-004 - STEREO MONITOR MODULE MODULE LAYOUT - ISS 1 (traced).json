@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/MONITORING/M475/MECHANICAL/19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/ce3a26d804276046.svg",
+ "sheet": {
+  "number": "B 475-04-004",
+  "title": "STEREO MONITOR MODULE / MODULE LAYOUT",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, -0.1, 338.6, 375.9],
+ "outlines": {
+  "line": {"rings": 197, "straight": {"n": 2428, "mm": 3413.7}, "curved": {"n": 385, "mm": 481.9}},
+  "text": {"rings": 129, "straight": {"n": 1161, "mm": 1443.5}, "curved": {"n": 280, "mm": 439.7}},
+  "tb": {"rings": 95, "straight": {"n": 1201, "mm": 2764.5}, "curved": {"n": 151, "mm": 297.0}}
+ },
+ "circles": [
+  {"c": [29.6, 163.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [29.7, 185.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.1, 245.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [29.6, 148.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [99.7, 116.4, 151.8, 313.7], "w": 52.1, "h": 197.3, "from": "ring", "words": ["WBS", "M475A", "SOLO/TB", "MON"]},
+  {
+   "mm": [103.2, 117.2, 148.1, 313.1],
+   "w": 44.9,
+   "h": 195.9,
+   "from": "ring",
+   "words": ["WBS", "M475A", "SOLO/TB", "MON"],
+   "in_title_block": true
+  }
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [108.6, 306.6, 117.0, 310.7], "text": "WBS"},
+   {"mm": [134.7, 306.1, 145.1, 310.2], "text": "M475A"},
+   {"mm": [127.2, 170.3, 142.9, 175.6], "text": "SOLO/TB"},
+   {"mm": [130.2, 132.3, 141.0, 137.9], "text": "MON"},
+   {"mm": [213.3, 55.1, 325.6, 62.7], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [255.8, 40.6, 281.3, 47.1], "text": "M475A"},
+   {"mm": [219.1, 30.9, 318.5, 40.0], "text": "STEREO MONITOR MODULE"},
+   {"mm": [233.8, 24.4, 297.5, 31.1], "text": "MODULE LAYoUt"},
+   {"mm": [216.3, 11.7, 262.8, 20.3], "text": "475-04-004"},
+   {"mm": [306.1, 11.0, 320.8, 18.2], "text": "ISS."}
+  ]
+ },
+ "title_block": {
+  "mm": [101.8, 46.3, 332.4, 319.1],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M475A", "SOLO/TB", "MON", "WBS WARD-BECK SYSTEMS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout B 475-04-004, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 0–376 mm up",
+  "- **Outlines:** line 197 rings, 2,428 straight (3,414 mm) / 385 curved (482 mm); text 129 rings, 1,161 straight (1,444 mm) / 280 curved (440 mm); tb 95 rings, 1,201 straight (2,764 mm) / 151 curved (297 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 5.0 @ (29.6, 163.7), r 5.0 @ (29.7, 185.2), r 5.0 @ (30.1, 245.4), r 5.0 @ (29.6, 148.8)",
+  "- **Closed boxes:** 2 (1 in the title block); named: WBS M475A SOLO/TB MON",
+  "- **Words (OCR):** 13 in 10 lines: WBS · M475A · SOLO/TB · MON · WBS WARD-BECK SYSTEMS · M475A · STEREO MONITOR MODULE · MODULE LAYoUt · 475-04-004 · ISS.",
+  "- **Title block:** (102, 46)–(332, 319) mm: WBS · M475A · SOLO/TB · MON · WBS WARD-BECK SYSTEMS"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/MONITORING/M475/MANUALS/1977 - M475 - Monitor Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/65f5cfeb03600808-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1489, 2000],
+  "mm": [321.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [167.1, 0.0, 320.0, 428.8],
+ "outlines": {
+  "line": {"rings": 72, "straight": {"n": 2714, "mm": 9877.9}, "curved": {"n": 209, "mm": 371.7}},
+  "text": {"rings": 2, "straight": {"n": 9, "mm": 16.3}, "curved": {"n": 3, "mm": 5.1}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [220.6, 406.8, 238.1, 409.8], "w": 17.5, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [220.9, 136.2, 238.1, 139.0], "w": 17.3, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [178.8, 398.8, 269.7, 418.4], "text": "\\NBS"},
+   {"mm": [166.7, 358.8, 283.0, 378.5], "text": "(\\NBS]"},
+   {"mm": [178.8, 319.7, 270.1, 339.4], "text": "\\NBS"},
+   {"mm": [179.2, 280.0, 270.3, 299.7], "text": "\\NBS"},
+   {"mm": [178.8, 240.1, 269.7, 259.8], "text": "\\NBS"},
+   {"mm": [179.2, 201.0, 270.3, 220.7], "text": "\\NBS"},
+   {"mm": [179.2, 161.5, 269.9, 181.2], "text": "\\NBS"},
+   {"mm": [179.2, 122.0, 270.3, 141.7], "text": "\\NBS"},
+   {"mm": [216.1, 90.9, 232.3, 99.8], "text": "\"\"75"},
+   {"mm": [196.0, 82.9, 252.4, 89.6], "text": "MOM TOR HODutE"},
+   {"mm": [179.6, 43.0, 284.6, 62.6], "text": "\\NBS BS"},
+   {"mm": [274.4, 54.8, 294.5, 63.5], "text": "ps"},
+   {"mm": [242.0, 22.5, 259.7, 29.4], "text": "tp"},
+   {"mm": [167.5, 3.0, 283.5, 22.7], "text": "(\\NBS]"},
+   {"mm": [235.1, 15.5, 255.2, 22.5], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1489 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 167–320 mm across, 0–429 mm up",
+  "- **Outlines:** line 72 rings, 2,714 straight (9,878 mm) / 209 curved (372 mm); text 2 rings, 9 straight (16.3 mm) / 3 curved (5.1 mm)",
+  "- **Closed boxes:** 2; named: \\NBS",
+  "- **Words (OCR):** 18 in 15 lines: \\NBS · (\\NBS] · \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · \"\"75 · MOM TOR HODutE · \\NBS BS · ps"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/MONITORING/M475/MANUALS/1978 - M475 - Monitor Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/677e5599e68ff485-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1489, 2000],
+  "mm": [321.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [167.1, 0.0, 320.0, 428.8],
+ "outlines": {
+  "line": {"rings": 23, "straight": {"n": 1485, "mm": 5617.2}, "curved": {"n": 77, "mm": 142.4}},
+  "text": {"rings": 48, "straight": {"n": 1098, "mm": 4017.6}, "curved": {"n": 112, "mm": 213.6}},
+  "tb": {"rings": 4, "straight": {"n": 78, "mm": 241.6}, "curved": {"n": 13, "mm": 32.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [179.4, 398.6, 273.8, 422.3], "text": "WBS"},
+   {"mm": [177.3, 358.6, 273.3, 382.8], "text": "WBS"},
+   {"mm": [177.5, 319.3, 273.1, 343.8], "text": "WBS"},
+   {"mm": [179.4, 280.5, 273.3, 303.7], "text": "WBS"},
+   {"mm": [177.5, 240.1, 272.5, 264.3], "text": "WBS"},
+   {"mm": [178.5, 201.0, 273.1, 225.0], "text": "WBS"},
+   {"mm": [178.8, 161.1, 273.1, 184.8], "text": "WBS"},
+   {"mm": [178.3, 121.8, 273.3, 145.5], "text": "WBS"},
+   {"mm": [215.3, 92.8, 233.6, 101.0], "text": "M+75"},
+   {"mm": [194.7, 83.1, 254.1, 91.3], "text": "MONITOR MODULE"},
+   {"mm": [179.6, 42.1, 273.8, 67.3], "text": "WBS"},
+   {"mm": [178.3, 2.4, 273.8, 26.6], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [170.8, 0.0, 280.2, 431.0],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M+75", "MONITOR MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1489 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 167–320 mm across, 0–429 mm up",
+  "- **Outlines:** line 23 rings, 1,485 straight (5,617 mm) / 77 curved (142 mm); text 48 rings, 1,098 straight (4,018 mm) / 112 curved (214 mm); tb 4 rings, 78 straight (242 mm) / 13 curved (32.6 mm)",
+  "- **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M+75 · MONITOR MODULE · WBS · WBS",
+  "- **Title block:** (171, 0)–(280, 431) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M+75 · MONITOR MODULE · WBS · WBS"
+ ]
+}

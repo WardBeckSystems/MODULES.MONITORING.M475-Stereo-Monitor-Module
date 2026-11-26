@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/MONITORING/M475/MECHANICAL/19xx - 475-04-004 - M475A STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/fdd7d99950bca38b.svg",
+ "sheet": {
+  "number": "B 475-04-004",
+  "title": "M475A STEREO MONITOR MODULE / MODULE LAYOUT",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.4, 3.0, 326.7, 431.8],
+ "outlines": {
+  "line": {"rings": 111, "straight": {"n": 1206, "mm": 2779.2}, "curved": {"n": 190, "mm": 312.6}},
+  "text": {"rings": 125, "straight": {"n": 1052, "mm": 1295.3}, "curved": {"n": 267, "mm": 411.4}},
+  "tb": {"rings": 98, "straight": {"n": 1037, "mm": 2690.8}, "curved": {"n": 175, "mm": 345.6}}
+ },
+ "circles": [
+  {"c": [33.2, 238.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [33.3, 178.9], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [33.2, 157.7], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [33.3, 143.1], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [102.8, 111.7, 152.9, 305.9], "w": 50.1, "h": 194.3, "from": "ring", "words": ["WBS", "M4754", "SOLOITB", "MON"]},
+  {
+   "mm": [106.4, 112.7, 149.2, 305.5],
+   "w": 42.7,
+   "h": 192.8,
+   "from": "ring",
+   "words": ["WBS", "M4754", "SOLOITB", "MON"],
+   "in_title_block": true
+  }
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [110.3, 298.8, 119.0, 302.6], "text": "WBS"},
+   {"mm": [136.2, 298.8, 146.6, 302.6], "text": "M4754"},
+   {"mm": [130.4, 164.9, 145.5, 169.3], "text": "SOLOITB"},
+   {"mm": [131.9, 127.6, 143.1, 132.9], "text": "MON"},
+   {"mm": [215.9, 51.8, 327.3, 58.8], "text": "WBS WARD-BECK BYSTEMS"},
+   {"mm": [259.1, 38.4, 284.6, 44.9], "text": "M475A"},
+   {"mm": [221.9, 30.2, 251.7, 37.2], "text": "STEREO"},
+   {"mm": [254.3, 29.4, 318.9, 37.4], "text": "MoniToR MODULE"},
+   {"mm": [240.7, 21.2, 303.3, 28.6], "text": "MODULE LAYOUT"},
+   {"mm": [219.8, 9.7, 267.3, 17.4], "text": "475-04 -004"},
+   {"mm": [309.8, 9.7, 327.7, 16.7], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {
+  "mm": [103.7, 43.2, 333.9, 311.2],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M4754", "SOLOITB", "MON", "WBS WARD-BECK BYSTEMS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout B 475-04-004, size B 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–327 mm across, 3–432 mm up",
+  "- **Outlines:** line 111 rings, 1,206 straight (2,779 mm) / 190 curved (313 mm); text 125 rings, 1,052 straight (1,295 mm) / 267 curved (411 mm); tb 98 rings, 1,037 straight (2,691 mm) / 175 curved (346 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 5.0 @ (33.2, 238.2), r 5.0 @ (33.3, 178.9), r 4.9 @ (33.2, 157.7), r 4.9 @ (33.3, 143.1)",
+  "- **Closed boxes:** 2 (1 in the title block); named: WBS M4754 SOLOITB MON",
+  "- **Words (OCR):** 13 in 11 lines: WBS · M4754 · SOLOITB · MON · WBS WARD-BECK BYSTEMS · M475A · STEREO · MoniToR MODULE · MODULE LAYOUT · 475-04 -004 · ISS.1",
+  "- **Title block:** (104, 43)–(334, 311) mm: WBS · M4754 · SOLOITB · MON · WBS WARD-BECK BYSTEMS"
+ ]
+}
