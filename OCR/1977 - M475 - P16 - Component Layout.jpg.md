@@ -11,6 +11,17 @@ Wiki page: [M475](../../../../PAGES/M475.md)
 - **Size:** 397,585 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 307 mm, 2000 × 1422 px traced (0.216 mm/px)
+- **Ink extent:** 48–432 mm across, 0–295 mm up
+- **Outlines:** line 289 rings, 3,737 straight (13,167 mm) / 736 curved (678 mm); text 1,161 rings, 7,377 straight (6,628 mm) / 2,482 curved (2,675 mm); tb 778 rings, 4,662 straight (6,778 mm) / 1,285 curved (1,355 mm)
+- **Closed boxes:** 78 (76 in the title block)
+- **Words (OCR):** 191 in 171 lines: sw · To Sws WBS N 9 1-037 · WBS · CANADA · Sws · R2s · 40 · 7-106 · 1N4148 cRL · Rzi · 22k · CR3
+- **Title block:** (83, 1)–(408, 295) mm: sw · To Sws WBS N 9 1-037 · WBS · CANADA · Sws · R2s · 40 · 7-106 · 1N4148 cRL · Rzi · 22k · CR3 · 322 22k · RIs · 754242 · M2oi · RZo · R52 42k · RIB · Sw4 · 348 · R23 · RIS · R47 · R23 · 724 · RIS ·
+
+Every curve, box, word and wire group: [1977 - M475 - P16 - Component Layout (traced).json](../SCHEMATICS/1977%20-%20M475%20-%20P16%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1977 - M475 - P16 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

@@ -26,7 +26,7 @@ Wiki page: [M475](../../../../PAGES/M475.md)
 - **Closed boxes:** 2; named: \NBS
 - **Words (OCR):** 18 in 15 lines: \NBS · (\NBS] · \NBS · \NBS · \NBS · \NBS · \NBS · \NBS · ""75 · MOM TOR HODutE · \NBS BS · ps
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p1 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p1%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p1 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p1%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p1 (traced)
 - **Words (OCR):** 14 in 9 lines: WARD -BECK YS · LT · (VVBS) · M475 · ON IT OR MODUL · ps · BS · tp · ht
 - **Title block:** (100, 397)–(187, 422) mm: WARD -BECK YS
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p2 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p2%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p2 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p2%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p2 (traced)
 - **Outlines:** line 119 rings, 1,668 straight (4,174 mm) / 311 curved (462 mm); text 315 rings, 2,419 straight (2,830 mm) / 612 curved (953 mm)
 - **Words (OCR):** 74 in 30 lines: WA~C -BECK YSTEMS LTC · TABLE OF CO NT ENTS · K475 HONI TOR HODULE · SECTION · rr fl · ctmt · ne · Ci ui Des · tio · 2-2 · Parts L1s · 3-5
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p3 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p3%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p3 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p3%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p3 (traced)
 - **Words (OCR):** 344 in 105 lines: WARO·SEC · YSTEMS LTO · WARR ANT · All lIa d-8e ck Sy ellls · prod ucts · war ra nte · ga st · defective lIIa eri als nd workllla nsh · for · pe riod of one · year frolll da · of hi plllent
 - **Title block:** (101, 110)–(180, 134) mm: hal Ward- Bec SysteMS be li able for eee · Wtrd·8
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p4 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p4%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p4 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p4%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p4 (traced)
 - **Outlines:** line 23 rings, 653 straight (3,150 mm) / 74 curved (120 mm); text 1,109 rings, 8,273 straight (9,265 mm) / 2,318 curved (3,579 mm)
 - **Words (OCR):** 207 in 64 lines: WA · BE CK YS · LT · TECH rilCAL DATA · H4 7S MONITOR MODULE · Ga in: · Moni or · 10 dB · dB. · Solo · 18 · dB
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p5 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p5%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p5 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p5%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p5 (traced)
 - **Outlines:** line 43 rings, 1,208 straight (3,677 mm) / 163 curved (262 mm); text 2,121 rings, 15,958 straight (17,770 mm) / 4,440 curved (6,808 mm)
 - **Words (OCR):** 419 in 87 lines: WARD·SECK YSTEM · LTD · CIRCU IT DESCRIPTION · M4 75 MON TOR MODULE · The M475 is designed to allow selective acce · numbe of · gnal so ur ce within · cons ol system · Pro visi on · made or · ve cont ro and muti ng of the se lect ed · qna
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p6 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p6%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p6 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p6%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p6 (traced)
 - **Words (OCR):** 181 in 46 lines: WARD-BECK SYSTEMS LTD · CIRC UIT DESCRI PTION · M475 MONI TOR MO DUL · su bj ec to the op · on of the muti ng · ay and · brought · out at pi ns l7/U · This output · normal ly use to fee the · ass ocf ate monitor amp lI er. · Muting
 - **Title block:** (9, 401)–(117, 423) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p7 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p7%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p7 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p7%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p7 (traced)
 - **Outlines:** line 385 rings, 3,779 straight (6,785 mm) / 970 curved (1,510 mm); text 598 rings, 4,355 straight (4,993 mm) / 1,132 curved (1,764 mm)
 - **Words (OCR):** 159 in 97 lines: WARo-s eCK SYSTEMS LTO · PAR TS · ST · M"5 MONIT OR MODULE · PART · DESCRIPTIO · MfG · Mf6 PART NU MBE · Cl · Ca pac to · /10 · ca
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p8 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p8%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p8 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p8%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p8 (traced)
 - **Words (OCR):** 104 in 73 lines: WAR · BECK SYSTEMS LT · PARTS LIST · H475 MON ITOR MODULE · PART · DE SCRI PTIOH · MFG PART HUM BE · DS! · LED · Faf rchil · FLYl 17 · DSZ
 - **Title block:** (39, 401)–(117, 424) mm: BECK SYSTEMS LT
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p9 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p9%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p9 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p9%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p9 (traced)
 - **Outlines:** line 129 rings, 1,837 straight (4,384 mm) / 431 curved (662 mm); text 636 rings, 4,679 straight (5,324 mm) / 1,382 curved (2,100 mm)
 - **Words (OCR):** 127 in 98 lines: WARO -SECK SYS EM · LTD · PARTS LIS · M4 · MONITOR MO DULE · PART · OESC R1PTlON · MFG · HFG PART NU M6ER · '26 · Re · 36K
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p10 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p10%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p10 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p10%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p10 (traced
 - **Dots (junctions):** 1
 - **Words (OCR):** 105 in 80 lines: WA · YST · LTD · PAR TS LIST · M47 · MON TOR MODULE · PAR · DESC RI PTION · MFG PART HUMBER · '61 · Resis to · 15K
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p11 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p11%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p11 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p11%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -133,7 +133,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p11 (traced
 - **Outlines:** line 36 rings, 977 straight (3,552 mm) / 131 curved (197 mm); text 391 rings, 3,037 straight (3,509 mm) / 842 curved (1,289 mm)
 - **Words (OCR):** 80 in 31 lines: WAAO ·SECK YSTEMS LTO · PA RTS LIST · M475 MONITO MO DU LE · PAR · DESCR PTI ON · MFG · MFG PA RT NUMBER · SW6 · Swi ref · Sc ha do · WBS 11 005 · 11
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p12 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p12%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p12 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p12%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p12 (traced
 - **Words (OCR):** 112 in 48 lines: wBS · '-1475 · MON ITOR 1MI'm SEUCTOR swltc.Ile' $WI through SW5 · Allows · se lect the MON ITOR · fr(llll .ny one · ve · s19~ sou rc.u · SOLO/ TB LEVEL c.ontrol M3 · Determines · l9M lewd · of SOl O/TB
 - **Title block:** (132, 34)–(320, 319) mm: wBS · '-1475 · MON ITOR 1MI'm SEUCTOR swltc.Ile' $WI through SW5 · Allows · se lect the MON ITOR · fr(llll .ny one · ve · s19~ sou rc.u · SOLO/ TB LEVEL c.ontrol M3 · Determines · l9M lewd · of SOl O/
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p13 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p13%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p13 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p13%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p13 (traced
 - **Words (OCR):** 52 in 41 lines: MONITOR · INPUTS · +ldBm · IT OR · BST · TAL BAC · ~-..I\I\J'V-------, · SOLO/T · OUTPUT · +8dBm · SOLO · ~------L-----f BST
 - **Title block:** (288, 3)–(432, 75) mm: 10/77 · REDRAWN · ISSUE DATE · REVISION · APP · [\NB · ps · WARe-BECK SYSTE · BS · DRN GE · M475 · ENG. RKB · ITOR MODULE · CKD. · tp DIAGRAM · FU NCTIONAL · APP · ht · SCALE · ISS UE · 75
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p14 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p14%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p14 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p14%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p14 (traced
 - **Closed boxes:** 23; named: USED ON; ht PRN.; pM; OAT; Cfl:D; seA'"
 - **Words (OCR):** 293 in 239 lines: riC · lL · 21,1 210 · IBv · G2. · 20 · R7 · 22 · 'V\I'v----7 · G,7 · C22 · 15 75
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p15 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p15%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p15 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p15%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -180,7 +180,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p15 (traced
 - **Words (OCR):** 186 in 137 lines: TO 'OWS · 11 · (yveS] · CA NADA · LJ · WS · 7-106 · 4\4 · 14 · -11+ · -Rn · 13)
 - **Title block:** (326, 2)–(408, 38) mm: (\NBS WARD-BECK BV8TEM8 · tp · ORN, · GEB · ht · M4 75 · DATE · JUNE 77 · MON TOR MODULE · CKO · LA YOUT · SCALE · TO LS XX · -xx · 475 06 00 · ANG.
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p16 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p16%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p16 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p16%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [1977 - M475 - Monitor Module p16 (traced
 - **Closed boxes:** 77; named: III III III III It; zu ow; M7; V0; lla; M11; N12; Pl'; 515; 16; U17; v18
 - **Words (OCR):** 97 in 66 lines: III · NC · III · NC · III · MON IN · MON · IN · NC · NC · zu · ow
 
-Every curve, box, word and wire group: [1977 - M475 - Monitor Module p17 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p17%20(traced).json) (the CAD file: `1977 - M475 - Monitor Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - Monitor Module p17 (traced).json](../MANUALS/1977%20-%20M475%20-%20Monitor%20Module%20p17%20%28traced%29.json) (the CAD file: `1977 - M475 - Monitor Module p17 (traced).dxf`).
 
 ## Full text
 

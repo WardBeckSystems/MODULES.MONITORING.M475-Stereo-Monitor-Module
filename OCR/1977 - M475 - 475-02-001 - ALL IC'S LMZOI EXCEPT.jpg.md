@@ -24,7 +24,7 @@ Wiki page: [M475](../../../../PAGES/M475.md)
 - **Title block:** (355, 2)–(392, 29) mm: WBS WAAD DeCK · GD · CKD; · SCAl[ · R4 · Tols
 - **Wiring (first pass):** 142 connected wire groups from 1,109 runs, 4 dotted junctions; labelled ends: 226 mm → c23, 0i2s; 216 mm → 233; 208 mm → 756 _, 357<, {-s3, 558<; 184 mm → Swc, 22k; 183 mm → R22, 4{10
 
-Every curve, box, word and wire group: [1977 - M475 - 475-02-001 - ALL IC'S LMZOI EXCEPT (traced).json](../SCHEMATICS/1977%20-%20M475%20-%20475-02-001%20-%20ALL%20IC%27S%20LMZOI%20EXCEPT%20(traced).json) (the CAD file: `1977 - M475 - 475-02-001 - ALL IC'S LMZOI EXCEPT (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M475 - 475-02-001 - ALL IC'S LMZOI EXCEPT (traced).json](../SCHEMATICS/1977%20-%20M475%20-%20475-02-001%20-%20ALL%20IC%27S%20LMZOI%20EXCEPT%20%28traced%29.json) (the CAD file: `1977 - M475 - 475-02-001 - ALL IC'S LMZOI EXCEPT (traced).dxf`).
 
 ## Full text
 

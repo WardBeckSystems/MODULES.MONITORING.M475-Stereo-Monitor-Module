@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 202 in 173 lines: R6B · 2n2102 · R63 · 320 · 820 · Rcs · R67 · R72 zzo/i0 · C22 · 542 · MonIToR · 2n4037
 - **Wiring (first pass):** 143 connected wire groups from 1,026 runs, 2 dotted junctions; labelled ends: 318 mm → MM, R32, 55}, 2.2125; 255 mm → CR4, 1n4148, C25, 10l25; 234 mm → HooCKD, EJEM, 1362L; 215 mm → RB?, R83, 4*7; 180 mm → 22k, 42, 4lio
 
-Every curve, box, word and wire group: [19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M475%20-%20DOC%20-%20475-02-001%20-%20MONITOR%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M475%20-%20DOC%20-%20475-02-001%20-%20MONITOR%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

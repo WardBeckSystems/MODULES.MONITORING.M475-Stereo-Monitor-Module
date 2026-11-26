@@ -33,7 +33,7 @@ M475A stereo monitor module functional diagram, cropped.
 - **Title block:** (207, 45)–(334, 70) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 43 connected wire groups from 209 runs; labelled ends: 101 mm → DIRECT; 101 mm → direct; 72 mm → BoOSTER, AMPLIFIER; 25 mm → direct, Muted; 24 mm → DIRECT, Muted
 
-Every curve, box, word and wire group: [19xx - 475-01-002 - STEREO MONITOR MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20475-01-002%20-%20STEREO%20MONITOR%20MODULE%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 475-01-002 - STEREO MONITOR MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 475-01-002 - STEREO MONITOR MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20475-01-002%20-%20STEREO%20MONITOR%20MODULE%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 475-01-002 - STEREO MONITOR MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

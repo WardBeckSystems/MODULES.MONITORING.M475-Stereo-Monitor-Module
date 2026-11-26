@@ -34,7 +34,7 @@ M475A stereo monitor module schematic, cropped.
 - **Title block:** (211, 39)–(338, 63) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 63 connected wire groups from 497 runs; labelled ends: 994 mm → R1R, R25, R26, R29; 351 mm → C3O, 22/25, C32, 0.1/100 |0.1/100; 305 mm → R41, Jok, 2k2 < IN4OO], R44; 240 mm → R41, Jok, MUTE, IN7SJA; 216 mm → TN2102, +18V, C3O, 22/25
 
-Every curve, box, word and wire group: [19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20475-02-002%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20475-02-002%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

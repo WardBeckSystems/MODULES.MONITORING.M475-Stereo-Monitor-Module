@@ -33,7 +33,7 @@ M475A stereo monitor module PCB component layout.
 - **Words (OCR):** 196 in 160 lines: Sh5 · 4.7/10 · 4.7/10 · R39 !SK · R3822k · R8 · RI · R9 · Rz · 0 1/1O0058) (C1B) 22P · 4.7/10 (CB R1322k · 7/10
 - **Title block:** (98, 45)–(335, 250) mm: PN?Ss9 02 · TN2ioz · B2' · R2z · ~R3z · ISSUE · 22/25 · Sk · R48 · NOK + C2z · R46 · K7 · SV1 · CR4 I4oos · R18 !K · R4s !OK · K2 · R26 · R2s · R4z · 22k · RZ-245-C · R1z !K R3o · 8 8 · a4s 44oo3 · 'R
 
-Every curve, box, word and wire group: [19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20475-06-002%20-%20STEREO%20MONITOR%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20475-06-002%20-%20STEREO%20MONITOR%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 

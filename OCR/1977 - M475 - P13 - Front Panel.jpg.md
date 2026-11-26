@@ -11,6 +11,19 @@ Wiki page: [M475](../../../../PAGES/M475.md)
 - **Size:** 138,834 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 320 × 432 mm, 1483 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 4–320 mm across, 0–432 mm up
+- **Outlines:** line 29 rings, 315 straight (797 mm) / 49 curved (66.4 mm); text 273 rings, 2,187 straight (2,071 mm) / 703 curved (928 mm); tb 282 rings, 3,262 straight (7,676 mm) / 606 curved (835 mm)
+- **Centre lines:** 5,907 paths (79 closed); straight 6,637 mm, curved 8.9 mm; horizontal 2,332 mm, vertical 2,079 mm, diagonal 2,226 mm
+- **Circles and arcs:** 0 circles, 3 arcs
+- **Closed boxes:** 1; named: of mut Ing HutiNG Sto : Aors operation m
+- **Words (OCR):** 52 in 34 lines: WBS · M475 · Honitor INPUT SELECTOR · through · five signa| sources. · to se lect the · feed from any one · RZed · luminated · Khen the unit Ts cperat Ing · SOLO/ TB  mode · che
+- **Title block:** (131, 0)–(320, 320) mm: WBS · M475 · Honitor INPUT SELECTOR · through · five signa| sources. · to se lect the · feed from any one · RZed · luminated · Khen the unit Ts cperat Ing · SOLO/ TB  mode · che · SOLOI TB · Honitor L
+
+Every curve, box, word and wire group: [1977 - M475 - P13 - Front Panel (traced).json](../MECHANICAL/1977%20-%20M475%20-%20P13%20-%20Front%20Panel%20%28traced%29.json) (the CAD file: `1977 - M475 - P13 - Front Panel (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 7 words corrected)

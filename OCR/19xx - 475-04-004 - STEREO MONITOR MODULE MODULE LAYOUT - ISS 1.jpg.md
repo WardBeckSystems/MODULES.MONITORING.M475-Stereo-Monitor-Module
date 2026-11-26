@@ -32,7 +32,7 @@ M475A stereo monitor module front panel layout with callouts.
 - **Words (OCR):** 13 in 10 lines: WBS · M475A · SOLO/TB · MON · WBS WARD-BECK SYSTEMS · M475A · STEREO MONITOR MODULE · MODULE LAYoUt · 475-04-004 · ISS.
 - **Title block:** (102, 46)–(332, 319) mm: WBS · M475A · SOLO/TB · MON · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20475-04-004%20-%20STEREO%20MONITOR%20MODULE%20MODULE%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20475-04-004%20-%20STEREO%20MONITOR%20MODULE%20MODULE%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 
