@@ -1,17 +1,17 @@
-# M475 · Monitoring
+# M475 Stereo Monitor Module · Monitoring
 
 Ward-Beck Systems M475, 1977|10. Wiki page: [M475 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M475.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 34 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 9 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 124 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 43 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 43 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 125 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 8 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 41 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -138,14 +138,14 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKclhEbmZFZjVNbDA/view?resourcekey=0-NTUhv95LCa8id1QDysaQnA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKclhEbmZFZjVNbDA&resourcekey=0-NTUhv95LCa8id1QDysaQnA" width="240" alt="1977 - M475 - front.png"></a><br><sub>1977|10 · front</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbjJ2ZVVYcFduam8/view?resourcekey=0-4WGNkwiVIZT85k61FaQPyg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbjJ2ZVVYcFduam8&resourcekey=0-4WGNkwiVIZT85k61FaQPyg" width="240" alt="1977 - M475 - monitor module 2.jpg"></a><br><sub>1977|10 · monitor module 2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV0E1ZUpWbG9mSms/view?resourcekey=0-7g8Md0xccf6qzZoWnA0h4Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV0E1ZUpWbG9mSms&resourcekey=0-7g8Md0xccf6qzZoWnA0h4Q" width="240" alt="1977 - M475 - monitor module.jpg"></a><br><sub>1977|10 · monitor module</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1977|10 · monitor module 2_small](https://drive.google.com/file/d/0B0yR0b5T78SKMTdmc3RlSW16UmM/view?resourcekey=0-2xkpAkxwYVgIQzASsQNZAQ) · [1977|10 · monitor module_small](https://drive.google.com/file/d/0B0yR0b5T78SKcGpkUU5aZ0M1VWM/view?resourcekey=0-Z419_clK1hUQkQtrS-kaGw) · [1977|10 · wbsps - module - m475 monitor module 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKOTI2UV81OGpxYVU/view?resourcekey=0-M_iH2La1ZOZIhtNfuhZauw)
+Shared privately on Google Drive (opens after sign-in): [1977|10 · wbsps - module - m475 monitor module 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKOTI2UV81OGpxYVU/view?resourcekey=0-M_iH2La1ZOZIhtNfuhZauw)
 
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSjhLWFpqU0UxQUE/view?resourcekey=0-gJad9QhNKIYbfBIeLeKmwQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSjhLWFpqU0UxQUE&resourcekey=0-gJad9QhNKIYbfBIeLeKmwQ" width="240" alt="1977 - M475 - P13 - Front Panel.jpg"></a><br><sub>1977|10 · P13 - Front Panel</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSjhLWFpqU0UxQUE/view?resourcekey=0-gJad9QhNKIYbfBIeLeKmwQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSjhLWFpqU0UxQUE&resourcekey=0-gJad9QhNKIYbfBIeLeKmwQ" width="240" alt="1977 - M475 - P13 - Front Panel.jpg"></a><br><sub>1977|10 · P13 - Front Panel · <a href="MECHANICAL/1977%20-%20M475%20-%20P13%20-%20Front%20Panel%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `19xx - 475-04-004 - M475A STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg`, `19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg`
@@ -155,18 +155,17 @@ Not on Google Drive yet: `19xx - 475-04-004 - M475A STEREO MONITOR MODULE MODULE
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcUZmUXctdjkweDA/view?resourcekey=0-WdcwQ0hlJtkmMohCKoxadQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcUZmUXctdjkweDA&resourcekey=0-WdcwQ0hlJtkmMohCKoxadQ" width="240" alt="1977 - M475 - 475-01-001 - MUTED SOLO SOLOLTB CONTROL MUTE MUTE CONTROL MUTE.jpg"></a><br><sub>1977|10 · 475-01-001 - MUTED SOLO SOLOLTB CONTROL MUTE MUTE CONTROL MUTE · <a href="SCHEMATICS/1977%20-%20M475%20-%20475-01-001%20-%20MUTED%20SOLO%20SOLOLTB%20CONTROL%20MUTE%20MUTE%20CONTROL%20MUTE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaEZMOEEtYzBnaVU/view?resourcekey=0-UtKq59FJ5XE0wDHColaWoA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaEZMOEEtYzBnaVU&resourcekey=0-UtKq59FJ5XE0wDHColaWoA" width="240" alt="1977 - M475 - 475-02-001 - ALL IC'S LMZOI EXCEPT.jpg"></a><br><sub>1977|10 · 475-02-001 - ALL IC'S LMZOI EXCEPT · <a href="SCHEMATICS/1977%20-%20M475%20-%20475-02-001%20-%20ALL%20IC%27S%20LMZOI%20EXCEPT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb1ZFcVl1MHNONW8/view?resourcekey=0-Myrs_UOqYAzaYzuz3Ii7Rg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb1ZFcVl1MHNONW8&resourcekey=0-Myrs_UOqYAzaYzuz3Ii7Rg" width="240" alt="1977 - M475 - P16 - Component Layout.jpg"></a><br><sub>1977|10 · P16 - Component Layout</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1qYgtnbWmo2rf7Sy5Zxr-tcHR3j4U60F0/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1qYgtnbWmo2rf7Sy5Zxr-tcHR3j4U60F0" width="240" alt="19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaEZMOEEtYzBnaVU/view?resourcekey=0-UtKq59FJ5XE0wDHColaWoA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaEZMOEEtYzBnaVU&resourcekey=0-UtKq59FJ5XE0wDHColaWoA" width="240" alt="1977 - M475 - 475-02-001 - ALL IC'S LMZOI EXCEPT.jpg"></a><br><sub>1977|10 · 475-02-001 - ALL IC'S LMZOI EXCEPT · <a href="SCHEMATICS/1977%20-%20M475%20-%20475-02-001%20-%20ALL%20IC%27S%20LMZOI%20EXCEPT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb1ZFcVl1MHNONW8/view?resourcekey=0-Myrs_UOqYAzaYzuz3Ii7Rg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb1ZFcVl1MHNONW8&resourcekey=0-Myrs_UOqYAzaYzuz3Ii7Rg" width="240" alt="1977 - M475 - P16 - Component Layout.jpg"></a><br><sub>1977|10 · P16 - Component Layout · <a href="SCHEMATICS/1977%20-%20M475%20-%20P16%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1qYgtnbWmo2rf7Sy5Zxr-tcHR3j4U60F0/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1qYgtnbWmo2rf7Sy5Zxr-tcHR3j4U60F0" width="240" alt="19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M475%20-%20DOC%20-%20475-02-001%20-%20MONITOR%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 475-01-001 - MONITOR MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 2.jpg`, `19xx - 475-01-002 - M475A STEREO MONITOR MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 475-01-002 - STEREO MONITOR MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1.jpg`, `19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1.jpg`, `M475 - P14 - Functional Diagram.jpg`, `M475 - P16 - Component Layout.jpg`
+Not on Google Drive yet: `1977 - 475-01-001 - MONITOR MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 2.jpg`, `19xx - 475-01-002 - M475A STEREO MONITOR MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1.jpg`, `19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1.jpg`, `M475 - P14 - Functional Diagram.jpg`, `M475 - P16 - Component Layout.jpg`
 
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc1B6alFRd3luelk/view?resourcekey=0-WIZd29lASr6tzMmRqWtcXg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc1B6alFRd3luelk&resourcekey=0-WIZd29lASr6tzMmRqWtcXg" width="240" alt="1977 - M475 - P17 - Pin Out.jpg"></a><br><sub>1977|10 · P17 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc1B6alFRd3luelk/view?resourcekey=0-WIZd29lASr6tzMmRqWtcXg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc1B6alFRd3luelk&resourcekey=0-WIZd29lASr6tzMmRqWtcXg" width="240" alt="1977 - M475 - P17 - Pin Out.jpg"></a><br><sub>1977|10 · P17 - Pin Out · <a href="PINOUTS/1977%20-%20M475%20-%20P17%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M475 - RTO-144 Connections.pdf`
@@ -249,7 +248,14 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 475-01-002 - M475A STEREO MONITOR MODULE FUNCTIONAL - ISS 1.kicad_sch](KICAD/19xx%20-%20475-01-002%20-%20M475A%20STEREO%20MONITOR%20MODULE%20FUNCTIONAL%20-%20ISS%201.kicad_sch)
 - [19xx - 475-01-002 - STEREO MONITOR MODULE FUNCTIONAL - ISS 1.kicad_sch](KICAD/19xx%20-%20475-01-002%20-%20STEREO%20MONITOR%20MODULE%20FUNCTIONAL%20-%20ISS%201.kicad_sch)
 - [19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%20475-02-002%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20-%20ISS%201.kicad_sch)
+- [19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M475%20-%20DOC%20-%20475-02-001%20-%20MONITOR%20MODULE%20SCHEMATIC.kicad_sch)
+- [M475 - P14 - Functional Diagram.kicad_sch](KICAD/M475%20-%20P14%20-%20Functional%20Diagram.kicad_sch)
 - [M475.kicad_sym](KICAD/M475.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
