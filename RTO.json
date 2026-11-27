@@ -3,14 +3,838 @@
  "connector": "RTO-144",
  "type": "M475 Monitor Module",
  "series": null,
- "contacts": "",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [],
+ "built_from": {
+  "pictures": [
+   "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M475/M475.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": "A",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": "B",
+   "same_row": null,
+   "signal": "MONITOR 5 IN",
+   "kind": "in",
+   "port": "MON 5 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": "C",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": "D",
+   "same_row": null,
+   "signal": "MONITOR 4 IN",
+   "kind": "in",
+   "port": "MON 4 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": "E",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": "F",
+   "same_row": null,
+   "signal": "MONITOR 3 IN",
+   "kind": "in",
+   "port": "MON 3 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": "H",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": "J",
+   "same_row": null,
+   "signal": "MONITOR 2 IN",
+   "kind": "in",
+   "port": "MON 2 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": "K",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": "L",
+   "same_row": null,
+   "signal": "MONITOR 1 IN",
+   "kind": "in",
+   "port": "MON 1 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": "M",
+   "same_row": null,
+   "signal": "TALKBACK IN",
+   "kind": "in",
+   "port": "TB IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": "N",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": "P",
+   "same_row": null,
+   "signal": "SOLO IN",
+   "kind": "in",
+   "port": "SOLO IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": "R",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": "S",
+   "same_row": null,
+   "signal": "UNMUTED OUTPUT",
+   "kind": "out",
+   "port": "UNMUTED OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": "T",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": "U",
+   "same_row": null,
+   "signal": "MUTED OUTPUT",
+   "kind": "out",
+   "port": "MUTED OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": "V",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "ref": "19",
+   "also": "W",
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "ref": "20",
+   "also": "X",
+   "same_row": null,
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "ref": "21",
+   "also": "Y",
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": "Z",
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": "1",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": "2",
+   "same_row": null,
+   "signal": "MONITOR 5 IN",
+   "kind": "in",
+   "port": "MON 5 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": "3",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": "4",
+   "same_row": null,
+   "signal": "MONITOR 4 IN",
+   "kind": "in",
+   "port": "MON 4 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": "5",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": "6",
+   "same_row": null,
+   "signal": "MONITOR 3 IN",
+   "kind": "in",
+   "port": "MON 3 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": "7",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": "8",
+   "same_row": null,
+   "signal": "MONITOR 2 IN",
+   "kind": "in",
+   "port": "MON 2 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": "9",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": "10",
+   "same_row": null,
+   "signal": "MONITOR 1 IN",
+   "kind": "in",
+   "port": "MON 1 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": "11",
+   "same_row": null,
+   "signal": "TALKBACK IN",
+   "kind": "in",
+   "port": "TB IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": "12",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": "13",
+   "same_row": null,
+   "signal": "SOLO IN",
+   "kind": "in",
+   "port": "SOLO IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": "14",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": "15",
+   "same_row": null,
+   "signal": "UNMUTED OUTPUT",
+   "kind": "out",
+   "port": "UNMUTED OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": "16",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": "17",
+   "same_row": null,
+   "signal": "MUTED OUTPUT",
+   "kind": "out",
+   "port": "MUTED OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": "18",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": "19",
+   "same_row": null,
+   "signal": "SOLO/TB CONTROL",
+   "kind": "control_in",
+   "port": "SOLO/TB CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": "20",
+   "same_row": null,
+   "signal": "MUTE CONTROL",
+   "kind": "control_in",
+   "port": "MUTE CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": "21",
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": "22",
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "MON 5 IN",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-B",
+     "P1-2"
+    ]
+   }
+  },
+  {
+   "name": "MON 4 IN",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-D",
+     "P1-4"
+    ]
+   }
+  },
+  {
+   "name": "MON 3 IN",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-F",
+     "P1-6"
+    ]
+   }
+  },
+  {
+   "name": "MON 2 IN",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-J",
+     "P1-8"
+    ]
+   }
+  },
+  {
+   "name": "MON 1 IN",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-L",
+     "P1-10"
+    ]
+   }
+  },
+  {
+   "name": "TB IN",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-M",
+     "P1-11"
+    ]
+   }
+  },
+  {
+   "name": "SOLO IN",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-P",
+     "P1-13"
+    ]
+   }
+  },
+  {
+   "name": "UNMUTED OUTPUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-S",
+     "P1-15"
+    ]
+   }
+  },
+  {
+   "name": "MUTED OUTPUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-U",
+     "P1-17"
+    ]
+   }
+  },
+  {
+   "name": "SOLO/TB CTL",
+   "dir": "control_in",
+   "pins": {
+    "unmarked": "P1-W"
+   }
+  },
+  {
+   "name": "MUTE CTL",
+   "dir": "control_in",
+   "pins": {
+    "unmarked": "P1-X"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M475/M475.rto144.json"
- ]
+ "conflicts": [],
+ "to_check": []
 }

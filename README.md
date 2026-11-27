@@ -173,10 +173,54 @@ Not on Google Drive yet: `M475 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-RTO-144 edge connector. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
+| 1 | N/C | nc |  | high |
+| 2 | MONITOR 5 IN | in | MON 5 IN | high |
+| 3 | N/C | nc |  | high |
+| 4 | MONITOR 4 IN | in | MON 4 IN | high |
+| 5 | N/C | nc |  | high |
+| 6 | MONITOR 3 IN | in | MON 3 IN | high |
+| 7 | N/C | nc |  | high |
+| 8 | MONITOR 2 IN | in | MON 2 IN | high |
+| 9 | N/C | nc |  | high |
+| 10 | MONITOR 1 IN | in | MON 1 IN | high |
+| 11 | TALKBACK IN | in | TB IN | high |
+| 12 | N/C | nc |  | high |
+| 13 | SOLO IN | in | SOLO IN | high |
+| 14 | N/C | nc |  | high |
+| 15 | UNMUTED OUTPUT | out | UNMUTED OUTPUT | high |
+| 16 | N/C | nc |  | high |
+| 17 | MUTED OUTPUT | out | MUTED OUTPUT | high |
+| 18 | N/C | nc |  | high |
+| 19 | -25 V | power |  | high |
+| 20 | 25 V COMMON | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | N/C | nc |  | high |
+| B | MONITOR 5 IN | in | MON 5 IN | high |
+| C | N/C | nc |  | high |
+| D | MONITOR 4 IN | in | MON 4 IN | high |
+| E | N/C | nc |  | high |
+| F | MONITOR 3 IN | in | MON 3 IN | high |
+| H | N/C | nc |  | high |
+| J | MONITOR 2 IN | in | MON 2 IN | high |
+| K | N/C | nc |  | high |
+| L | MONITOR 1 IN | in | MON 1 IN | high |
+| M | TALKBACK IN | in | TB IN | high |
+| N | N/C | nc |  | high |
+| P | SOLO IN | in | SOLO IN | high |
+| R | N/C | nc |  | high |
+| S | UNMUTED OUTPUT | out | UNMUTED OUTPUT | high |
+| T | N/C | nc |  | high |
+| U | MUTED OUTPUT | out | MUTED OUTPUT | high |
+| V | N/C | nc |  | high |
+| W | SOLO/TB CONTROL | control_in | SOLO/TB CTL | high |
+| X | MUTE CONTROL | control_in | MUTE CTL | high |
+| Y | +24 V | power |  | high |
+| Z | CONTROL COMMON | ground |  | high |
 
 ## Manuals and documents
 

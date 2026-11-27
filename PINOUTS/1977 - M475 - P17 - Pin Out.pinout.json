@@ -1,0 +1,582 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1977 - M475 - P17 - Pin Out.jpg",
+  "module": "M475",
+  "applies_to": [
+    "M475"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "475-04-002",
+    "title": "M475 MONITOR MODULE CONNECTOR REAR VIEW",
+    "date": "1977-07",
+    "issue": "1",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "MON 5 IN",
+      "signal": "MONITOR 5 IN",
+      "kind": "in",
+      "port": "MON 5 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "MON 5 IN",
+      "signal": "MONITOR 5 IN",
+      "kind": "in",
+      "port": "MON 5 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "MON 4 IN",
+      "signal": "MONITOR 4 IN",
+      "kind": "in",
+      "port": "MON 4 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "MON 4 IN",
+      "signal": "MONITOR 4 IN",
+      "kind": "in",
+      "port": "MON 4 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "MON 3 IN",
+      "signal": "MONITOR 3 IN",
+      "kind": "in",
+      "port": "MON 3 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "MON 3 IN",
+      "signal": "MONITOR 3 IN",
+      "kind": "in",
+      "port": "MON 3 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "MON 2 IN",
+      "signal": "MONITOR 2 IN",
+      "kind": "in",
+      "port": "MON 2 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "MON 2 IN",
+      "signal": "MONITOR 2 IN",
+      "kind": "in",
+      "port": "MON 2 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "MON 1 IN",
+      "signal": "MONITOR 1 IN",
+      "kind": "in",
+      "port": "MON 1 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "MON 1 IN",
+      "signal": "MONITOR 1 IN",
+      "kind": "in",
+      "port": "MON 1 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "TB IN",
+      "signal": "TALKBACK IN",
+      "kind": "in",
+      "port": "TB IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "TB IN",
+      "signal": "TALKBACK IN",
+      "kind": "in",
+      "port": "TB IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "SOLO IN",
+      "signal": "SOLO IN",
+      "kind": "in",
+      "port": "SOLO IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "SOLO IN",
+      "signal": "SOLO IN",
+      "kind": "in",
+      "port": "SOLO IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "UNMUTED OUTPUT",
+      "signal": "UNMUTED OUTPUT",
+      "kind": "out",
+      "port": "UNMUTED OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "UNMUTED OUTPUT",
+      "signal": "UNMUTED OUTPUT",
+      "kind": "out",
+      "port": "UNMUTED OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "MUTED OUTPUT",
+      "signal": "MUTED OUTPUT",
+      "kind": "out",
+      "port": "MUTED OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "MUTED OUTPUT",
+      "signal": "MUTED OUTPUT",
+      "kind": "out",
+      "port": "MUTED OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "SOLO/TB CTL",
+      "signal": "SOLO/TB CONTROL",
+      "kind": "control_in",
+      "port": "SOLO/TB CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "MUTE CTL",
+      "signal": "MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "25V COM",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "+24V IN",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "MON 5 IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-B",
+          "P1-2"
+        ]
+      }
+    },
+    {
+      "name": "MON 4 IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-D",
+          "P1-4"
+        ]
+      }
+    },
+    {
+      "name": "MON 3 IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-F",
+          "P1-6"
+        ]
+      }
+    },
+    {
+      "name": "MON 2 IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-J",
+          "P1-8"
+        ]
+      }
+    },
+    {
+      "name": "MON 1 IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-L",
+          "P1-10"
+        ]
+      }
+    },
+    {
+      "name": "TB IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-M",
+          "P1-11"
+        ]
+      }
+    },
+    {
+      "name": "SOLO IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-P",
+          "P1-13"
+        ]
+      }
+    },
+    {
+      "name": "UNMUTED OUTPUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-S",
+          "P1-15"
+        ]
+      }
+    },
+    {
+      "name": "MUTED OUTPUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-U",
+          "P1-17"
+        ]
+      }
+    },
+    {
+      "name": "SOLO/TB CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P1-W"
+      }
+    },
+    {
+      "name": "MUTE CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P1-X"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Connector name not drawn (P1 assumed)",
+    "DRN. empty; CKD. is a signature"
+  ],
+  "confidence": "high",
+  "notes": "Letter and number contacts each labelled on their own side; every contact is its own entry (also = opposite contact). Same words both sides on all signal rows (paralleled or balanced legs not stated; polarity null). Size A, DATE JULY 77, ISS 1. Legend: NC = not connected. No inserts."
+}

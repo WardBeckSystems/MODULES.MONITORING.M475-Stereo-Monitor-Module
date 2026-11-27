@@ -1,35 +1,48 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M475") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M475
-  ;; Title: Monitor Module
-  ;; Category: MONITORING | Series: Standard | Year: 1977
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M475.html
-  ;; ====================================================================
   (symbol "M475" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
-    (property "Value" "M475" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
+    (property "Reference" "U" (at 0 45.72 0) (effects (font (size 1.27 1.27))))
+    (property "Value" "M475" (at 0 -53.34 0) (effects (font (size 1.27 1.27))))
     (property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Datasheet" "https://wbsps.ca/PAGES/M475.html" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Description" "M475: M4 75 MON I TOR MODULE The M475 is designed to allow selective acce s s t o a numbe r of s i gnal so ur ce s within a cons ol e system . Pro visi on f s made f or l e ve l cont ro ..." (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "ki_keywords" "Ward-Beck WBS audio broadcast MONITORING  M475" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "ki_description" "M475: M4 75 MON I TOR MODULE The M475 is designed to allow selective acce s s t o a numbe r of s i gnal so ur ce s within a cons ol e system . Pro visi on f s made f or l e ve l cont ro ..." (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Manufacturer" "Ward-Beck Systems Ltd." (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Pinout_Pictures" "M475/PINOUTS/1977 - M475 - P17 - Pin Out.pinout.json" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Category" "MONITORING" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Year" "1977" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
-    (symbol "M475_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
+    (symbol "M475_0_1"
+      (rectangle (start -22.86 38.10) (end 22.86 -45.72) (stroke (width 0.254) (type default)) (fill (type background)))
+    )
     (symbol "M475_1_1"
-      (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
-      (pin input line (at -30.48 2.54 0) (length 5.08) (name "IN -" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
-      (pin output line (at 30.48 5.08 180) (length 5.08) (name "OUT +" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
-      (pin output line (at 30.48 2.54 180) (length 5.08) (name "OUT -" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
-      (pin power_in line (at 0.00 12.70 270) (length 5.08) (name "VCC" (effects (font (size 1.27 1.27)))) (number "5" (effects (font (size 1.27 1.27)))))
-      (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 30.48 0) (length 5.08) (name "MONITOR 1 IN" (effects (font (size 1.27 1.27)))) (number "10" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 27.94 0) (length 5.08) (name "MONITOR 1 IN" (effects (font (size 1.27 1.27)))) (number "L" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 22.86 0) (length 5.08) (name "MONITOR 2 IN" (effects (font (size 1.27 1.27)))) (number "8" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 20.32 0) (length 5.08) (name "MONITOR 2 IN" (effects (font (size 1.27 1.27)))) (number "J" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 15.24 0) (length 5.08) (name "MONITOR 3 IN" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 12.70 0) (length 5.08) (name "MONITOR 3 IN" (effects (font (size 1.27 1.27)))) (number "F" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 7.62 0) (length 5.08) (name "MONITOR 4 IN" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 5.08 0) (length 5.08) (name "MONITOR 4 IN" (effects (font (size 1.27 1.27)))) (number "D" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 0.00 0) (length 5.08) (name "MONITOR 5 IN" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 -2.54 0) (length 5.08) (name "MONITOR 5 IN" (effects (font (size 1.27 1.27)))) (number "B" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 -7.62 0) (length 5.08) (name "SOLO IN" (effects (font (size 1.27 1.27)))) (number "13" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 -10.16 0) (length 5.08) (name "SOLO IN" (effects (font (size 1.27 1.27)))) (number "P" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 -15.24 0) (length 5.08) (name "TALKBACK IN" (effects (font (size 1.27 1.27)))) (number "11" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 -17.78 0) (length 5.08) (name "TALKBACK IN" (effects (font (size 1.27 1.27)))) (number "M" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 -22.86 0) (length 5.08) (name "MUTE CONTROL" (effects (font (size 1.27 1.27)))) (number "X" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -27.94 -27.94 0) (length 5.08) (name "SOLO/TB CONTROL" (effects (font (size 1.27 1.27)))) (number "W" (effects (font (size 1.27 1.27)))))
+      (pin output line (at 27.94 30.48 180) (length 5.08) (name "MUTED OUTPUT" (effects (font (size 1.27 1.27)))) (number "17" (effects (font (size 1.27 1.27)))))
+      (pin output line (at 27.94 27.94 180) (length 5.08) (name "MUTED OUTPUT" (effects (font (size 1.27 1.27)))) (number "U" (effects (font (size 1.27 1.27)))))
+      (pin output line (at 27.94 22.86 180) (length 5.08) (name "UNMUTED OUTPUT" (effects (font (size 1.27 1.27)))) (number "15" (effects (font (size 1.27 1.27)))))
+      (pin output line (at 27.94 20.32 180) (length 5.08) (name "UNMUTED OUTPUT" (effects (font (size 1.27 1.27)))) (number "S" (effects (font (size 1.27 1.27)))))
+      (pin power_in line (at -5.08 43.18 270) (length 5.08) (name "-25 V" (effects (font (size 1.27 1.27)))) (number "19" (effects (font (size 1.27 1.27)))))
+      (pin power_in line (at 0.00 43.18 270) (length 5.08) (name "+25 V" (effects (font (size 1.27 1.27)))) (number "21" (effects (font (size 1.27 1.27)))))
+      (pin power_in line (at 5.08 43.18 270) (length 5.08) (name "+24 V" (effects (font (size 1.27 1.27)))) (number "Y" (effects (font (size 1.27 1.27)))))
+      (pin power_in line (at -5.08 -50.80 90) (length 5.08) (name "25 V COMMON" (effects (font (size 1.27 1.27)))) (number "20" (effects (font (size 1.27 1.27)))))
+      (pin power_in line (at 0.00 -50.80 90) (length 5.08) (name "CHASSIS" (effects (font (size 1.27 1.27)))) (number "22" (effects (font (size 1.27 1.27)))))
+      (pin power_in line (at 5.08 -50.80 90) (length 5.08) (name "CONTROL COMMON" (effects (font (size 1.27 1.27)))) (number "Z" (effects (font (size 1.27 1.27)))))
     )
   )
 )
