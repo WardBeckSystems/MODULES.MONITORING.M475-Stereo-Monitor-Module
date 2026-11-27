@@ -1,0 +1,138 @@
+{
+ "module": "M475",
+ "source": {
+  "file": "MANUALS/1978 - M475 - Monitor Module.pdf",
+  "pages": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "M47s MONITOR MODULE The M475 is designed to allow selective access to number of signa ] sources within conso ]e system_ Provision is made for level contro] and muting of the selected signa ] a 5 maybe required The output of the module is intended to drive monitor amplifier a $ well a$ provide headset feed Source selection takes place with the aid of an interlocked five-station push-button assemb Ty. Additionally, the input of the module can be transferred from the five selectab] e inputs to SOLO bus or TALKBAcK input byway of remote contact closure Monitor Inputs Sw1 through Sn5 select any one of five signa] sources which maybe wired to the modu)e inputs 21 22 and their associated components form balanced high input impedance preamplifier. The output of 22 15 coupled through C5 to the MONITOR LEVEL contro] R30 Solo/ Talkback Input Depending on the application of the module, pins 13/P maybe utilized to accept the feed from SOLO bus or alternatively, TALKBACK input maybe connected to pins I1/M_ Both SOLO and TALKBACK inputs are coupled to an isolation summing amplifier consisting of 23 and 24 Following 24 is the SOLO/TB LEVEL contro] R43, a ]owing independent Teve 1 contro] for the SOLO/TB feed Monitor/Solo Switch 25 is solid state swilch which a ]Tows selective gating of either the Monitor or the SOLO/TB input to common output Under norma 1 conditions, 25 will be processing the MONITOR signa ] Connecting pin W of the module connector to ground potential] Will cause 25 to switch to the SOLO/TB signa 1 Output 26 Q1 and Q2 form one-ha ] f of the actively balanced output amplifier with 27, 03 and Q4 Making up the remaining ha ] f Two outputs are provided One is being Picked UP ahead of the muting relay and appears at pins 15/5 The second output i5"
+   ]
+  },
+  {
+   "heading": "M4Z5 MONITOR_MODUL E",
+   "paragraphs": [
+    "subject to the operation of the muting relay and is brought out at pins 17/U This output i 5 norma I1y used to feed the associated monitor amplifier Muting Operating the muting relay K1 Will result in reduction of the monitor feed Teve 1 from its nominal +8 dBm output. R77 determines the degree of muting and a ]ows adjustment of the output level from -12 dBm to fully off 05 and 06 function a $ relay driver Muting contro] i5 achieved either by operation of MUTE switch Sw6 or externa]Ty via pin X of the module connector. Power Supply_Decoupl ing C25 through C28 together with R91 and R92 form passive, on-board power supply decoup] ing circuit CRS and CR6 Prevent module damage in the event of accident] polarity reversal"
+   ]
+  },
+  {
+   "heading": "MFG PART_NUMBER",
+   "paragraphs": [
+    "C1 C2 C3 c4 C5 Capacitor 4.7 uF/10 V Kemet T3908475M010As 10 pF Philips 2222-638-10109"
+   ]
+  },
+  {
+   "heading": "33 UF/10 V",
+   "paragraphs": [
+    "Kemet"
+   ]
+  },
+  {
+   "heading": "C6 C7 C8 C9 C10",
+   "paragraphs": [
+    "150 uF/ 6 V T390E157m006AS 2222-638-10109"
+   ]
+  },
+  {
+   "heading": "10 PF",
+   "paragraphs": [
+    "Philips"
+   ]
+  },
+  {
+   "heading": "33 UF/10 V",
+   "paragraphs": [
+    "Kemet"
+   ]
+  },
+  {
+   "heading": "T3900336M01OAS",
+   "paragraphs": [
+    "2.2 uF/25 V 10 uF/25 V T3908225M025AS T390c106m025as"
+   ]
+  },
+  {
+   "heading": "T390B475M010AS",
+   "paragraphs": [
+    "0.01 uF delete Aselco cq92-Mc-103m"
+   ]
+  },
+  {
+   "heading": "C21 C22 C23 C24 C25",
+   "paragraphs": [
+    "10 pF 220 uF/10 V Philips Kemet"
+   ]
+  },
+  {
+   "heading": "2222-638-10109 T390F227M010AS",
+   "paragraphs": [
+    "22 uF/25 Siemens 841313-45226-2"
+   ]
+  },
+  {
+   "heading": "C26 C27 C28 C29",
+   "paragraphs": [
+    "10 uF/25 Kemet T390c106m025aS"
+   ]
+  },
+  {
+   "heading": "CRI CR2 CR3 CR4 CRS",
+   "paragraphs": [
+    "Diode Motorola Fairchild 1n4003 1n4148 Motorola 184003"
+   ]
+  },
+  {
+   "heading": "DSI DS2",
+   "paragraphs": [
+    "LED, red LE 0 ye ] ow Relay Fa irchild"
+   ]
+  },
+  {
+   "heading": "FLVT1Z FLV410",
+   "paragraphs": [
+    "Siemens V23012-A0105-4001 Transistor Nationa 1 2n2102 2n4037 2n2897 2n2102 2 0 4 5 06 RI R2 R3 R4 R5"
+   ]
+  },
+  {
+   "heading": "PN3569",
+   "paragraphs": [
+    "Resistor #W 5 % 10 10 delete Philips",
+    "Philips"
+   ]
+  },
+  {
+   "heading": "R6 R7 R8 R9 RI 0",
+   "paragraphs": [
+    "10 delete 10 10 Philips"
+   ]
+  },
+  {
+   "heading": "RI 1 RI2 RI3 RI4 R15",
+   "paragraphs": [
+    "delete 10 10 delete PhiliPs"
+   ]
+  },
+  {
+   "heading": "RI6 RI7 RI8 RI9 R20",
+   "paragraphs": [
+    "10 10 delete Philips"
+   ]
+  },
+  {
+   "heading": "R21 R22 R2 3 R2 4 R25",
+   "paragraphs": [
+    "22k 22k 47k 47k 620 Philips"
+   ]
+  }
+ ]
+}

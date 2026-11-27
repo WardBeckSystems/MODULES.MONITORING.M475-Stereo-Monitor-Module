@@ -13,6 +13,123 @@ Ward-Beck Systems M475, 1977|10. Wiki page: [M475 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 43 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [13 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M475 - Monitor Module.pdf](MANUALS/1978%20-%20M475%20-%20Monitor%20Module.pdf) page 5 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** |  |
+| &nbsp;&nbsp;Monitor | Solo: 10 dB ±0.5 dB _ 18 dB +0,5 dB |
+| **Frequency response** | ±0.25 dB from 30 Hz to 20 kHz. |
+| **Noise** | 80 dB be ]ow nomina 1 output of +8 dBm. (20 Hz to 20 KHz). |
+| **Harmonic distortion** | Less than 0.357 Thd from 30 Hz to 15 kHz at +24 dBm output or Tess Less than 0.1~ at mid-band at +24 dBm output. |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Monitor | Solo: 600 ohms or less, balanced/ unbalanced_ 30k ohms; balanced |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Monitor | Solo: Ta ]kback: 30k ohms; balanced Less than 5 ohms, (summing input)_ 78k ohms; baLanced |
+| **Output impedance** | 150 ohms, ba lanced |
+| **Load impedance** | 600 ohms, balanced, |
+| **Output level** | +8 dBm nominal, +26 dBm maxiMum. |
+| **Phasing** | Input and output termina ] s designated by numbers are in phase |
+| **Power requirements** | +25 volts dc, 15 mA nomina], 40 ma maximum. |
+| **Ambient temperature** | 0 to 60 degrees Celsius. |
+| **Dimensions** | 1 6 &quot; wide X 7&quot; high X 6.5&quot; deep. (41 Mm X 178 Mm X 165 mm) |
+
+## Circuit description
+
+From [1978 - M475 - Monitor Module.pdf](MANUALS/1978%20-%20M475%20-%20Monitor%20Module.pdf) pages 6-10 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M47s MONITOR MODULE The M475 is designed to allow selective access to number of signa ] sources within conso ]e system_ Provision is made for level contro] and muting of the selected signa ] a 5 maybe required The output of the module is intended to drive monitor amplifier a $ well a$ provide headset feed Source selection takes place with the aid of an interlocked five-station push-button assemb Ty. Additionally, the input of the module can be transferred from the five selectab] e inputs to SOLO bus or TALKBAcK input byway of remote contact closure Monitor Inputs Sw1 through Sn5 select any one of five signa] sources which maybe wired to the modu)e inputs 21 22 and their associated components form balanced high input impedance preamplifier. The output of 22 15 coupled through C5 to the MONITOR LEVEL contro] R30 Solo/ Talkback Input Depending on the application of the module, pins 13/P maybe utilized to accept the feed from SOLO bus or alternatively, TALKBACK input maybe connected to pins I1/M_ Both SOLO and TALKBACK inputs are coupled to an isolation summing amplifier consisting of 23 and 24 Following 24 is the SOLO/TB LEVEL contro] R43, a ]owing independent Teve 1 contro] for the SOLO/TB feed Monitor/Solo Switch 25 is solid state swilch which a ]Tows selective gating of either the Monitor or the SOLO/TB input to common output Under norma 1 conditions, 25 will be processing the MONITOR signa ] Connecting pin W of the module connector to ground potential] Will cause 25 to switch to the SOLO/TB signa 1 Output 26 Q1 and Q2 form one-ha ] f of the actively balanced output amplifier with 27, 03 and Q4 Making up the remaining ha ] f Two outputs are provided One is being Picked UP ahead of the muting relay and appears at pins 15/5 The second output i5
+
+**M4Z5 MONITOR_MODUL E**
+
+subject to the operation of the muting relay and is brought out at pins 17/U This output i 5 norma I1y used to feed the associated monitor amplifier Muting Operating the muting relay K1 Will result in reduction of the monitor feed Teve 1 from its nominal +8 dBm output. R77 determines the degree of muting and a ]ows adjustment of the output level from -12 dBm to fully off 05 and 06 function a $ relay driver Muting contro] i5 achieved either by operation of MUTE switch Sw6 or externa]Ty via pin X of the module connector. Power Supply_Decoupl ing C25 through C28 together with R91 and R92 form passive, on-board power supply decoup] ing circuit CRS and CR6 Prevent module damage in the event of accident] polarity reversal
+
+**MFG PART_NUMBER**
+
+C1 C2 C3 c4 C5 Capacitor 4.7 uF/10 V Kemet T3908475M010As 10 pF Philips 2222-638-10109
+
+**33 UF/10 V**
+
+Kemet
+
+**C6 C7 C8 C9 C10**
+
+150 uF/ 6 V T390E157m006AS 2222-638-10109
+
+**10 PF**
+
+Philips
+
+**33 UF/10 V**
+
+Kemet
+
+**T3900336M01OAS**
+
+2.2 uF/25 V 10 uF/25 V T3908225M025AS T390c106m025as
+
+**T390B475M010AS**
+
+0.01 uF delete Aselco cq92-Mc-103m
+
+**C21 C22 C23 C24 C25**
+
+10 pF 220 uF/10 V Philips Kemet
+
+**2222-638-10109 T390F227M010AS**
+
+22 uF/25 Siemens 841313-45226-2
+
+**C26 C27 C28 C29**
+
+10 uF/25 Kemet T390c106m025aS
+
+**CRI CR2 CR3 CR4 CRS**
+
+Diode Motorola Fairchild 1n4003 1n4148 Motorola 184003
+
+**DSI DS2**
+
+LED, red LE 0 ye ] ow Relay Fa irchild
+
+**FLVT1Z FLV410**
+
+Siemens V23012-A0105-4001 Transistor Nationa 1 2n2102 2n4037 2n2897 2n2102 2 0 4 5 06 RI R2 R3 R4 R5
+
+**PN3569**
+
+Resistor #W 5 % 10 10 delete Philips
+
+Philips
+
+**R6 R7 R8 R9 RI 0**
+
+10 delete 10 10 Philips
+
+**RI 1 RI2 RI3 RI4 R15**
+
+delete 10 10 delete PhiliPs
+
+**RI6 RI7 RI8 RI9 R20**
+
+10 10 delete Philips
+
+**R21 R22 R2 3 R2 4 R25**
+
+22k 22k 47k 47k 620 Philips
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
