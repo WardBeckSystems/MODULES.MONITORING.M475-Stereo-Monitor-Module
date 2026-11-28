@@ -4,13 +4,12 @@ Ward-Beck Systems M475, 1977|10. Wiki page: [M475 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 43 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 125 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 8 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 42 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 124 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 7 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 41 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -148,8 +147,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSjhLWFpqU0UxQUE/view?resourcekey=0-gJad9QhNKIYbfBIeLeKmwQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSjhLWFpqU0UxQUE&resourcekey=0-gJad9QhNKIYbfBIeLeKmwQ" width="240" alt="1977 - M475 - P13 - Front Panel.jpg"></a><br><sub>1977|10 · P13 - Front Panel · <a href="MECHANICAL/1977%20-%20M475%20-%20P13%20-%20Front%20Panel%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 475-04-004 - M475A STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg`, `19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M475.stl`](MECHANICAL/M475.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M475)
@@ -166,8 +163,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaEZMOEEtYzBnaVU/view?resourcekey=0-UtKq59FJ5XE0wDHColaWoA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaEZMOEEtYzBnaVU&resourcekey=0-UtKq59FJ5XE0wDHColaWoA" width="240" alt="1977 - M475 - 475-02-001 - ALL IC'S LMZOI EXCEPT.jpg"></a><br><sub>1977|10 · 475-02-001 - ALL IC'S LMZOI EXCEPT · <a href="SCHEMATICS/1977%20-%20M475%20-%20475-02-001%20-%20ALL%20IC%27S%20LMZOI%20EXCEPT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb1ZFcVl1MHNONW8/view?resourcekey=0-Myrs_UOqYAzaYzuz3Ii7Rg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb1ZFcVl1MHNONW8&resourcekey=0-Myrs_UOqYAzaYzuz3Ii7Rg" width="240" alt="1977 - M475 - P16 - Component Layout.jpg"></a><br><sub>1977|10 · P16 - Component Layout · <a href="SCHEMATICS/1977%20-%20M475%20-%20P16%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1qYgtnbWmo2rf7Sy5Zxr-tcHR3j4U60F0/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1qYgtnbWmo2rf7Sy5Zxr-tcHR3j4U60F0" width="240" alt="19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M475%20-%20DOC%20-%20475-02-001%20-%20MONITOR%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 475-01-001 - MONITOR MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 2.jpg`, `19xx - 475-01-002 - M475A STEREO MONITOR MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC - ISS 1.jpg`, `19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1.jpg`, `M475 - P14 - Functional Diagram.jpg`, `M475 - P16 - Component Layout.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -175,8 +170,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc1B6alFRd3luelk/view?resourcekey=0-WIZd29lASr6tzMmRqWtcXg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc1B6alFRd3luelk&resourcekey=0-WIZd29lASr6tzMmRqWtcXg" width="240" alt="1977 - M475 - P17 - Pin Out.jpg"></a><br><sub>1977|10 · P17 - Pin Out · <a href="PINOUTS/1977%20-%20M475%20-%20P17%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M475 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -259,7 +252,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M475 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M475%20-%20DOC%20-%20475-02-001%20-%20MONITOR%20MODULE%20SCHEMATIC.kicad_sch)
 - [M475 - P14 - Functional Diagram.kicad_sch](KICAD/M475%20-%20P14%20-%20Functional%20Diagram.kicad_sch)
 - [M475.kicad_sym](KICAD/M475.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
