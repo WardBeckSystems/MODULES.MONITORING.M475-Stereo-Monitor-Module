@@ -1,5 +1,5 @@
 # 1978 - M475 - Monitor Module.pdf
-Wiki page: [M475](../../../../PAGES/M475.md)
+Wiki page: [M475](../)
 
 
 - **Year:** 1978 (found in this file: "ISSUE 44 NOv 1978")

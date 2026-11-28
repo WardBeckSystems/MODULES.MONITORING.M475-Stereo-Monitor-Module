@@ -1,5 +1,5 @@
 # 1977 - M475 - Monitor Module.pdf
-Wiki page: [M475](../../../../PAGES/M475.md)
+Wiki page: [M475](../)
 
 
 - **Year:** 1977 (found in this file: "DATE JUNE 77")

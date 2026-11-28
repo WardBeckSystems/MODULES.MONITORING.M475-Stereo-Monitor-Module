@@ -1,5 +1,5 @@
 # 19xx - 475-06-002 - STEREO MONITOR MODULE COMPONENT LAYOUT - ISS 1.jpg
-Wiki page: [M475](../../../../PAGES/M475.md)
+Wiki page: [M475](../)
 
 
 - **Year:** unknown (title block (read by eye))

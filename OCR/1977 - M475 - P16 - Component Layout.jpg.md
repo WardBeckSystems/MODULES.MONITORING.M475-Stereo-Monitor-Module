@@ -1,5 +1,5 @@
 # 1977 - M475 - P16 - Component Layout.jpg
-Wiki page: [M475](../../../../PAGES/M475.md)
+Wiki page: [M475](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

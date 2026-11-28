@@ -1,5 +1,5 @@
 # 19xx - 475-04-004 - M475A STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg
-Wiki page: [M475](../../../../PAGES/M475.md)
+Wiki page: [M475](../)
 
 
 - **Year:** unknown (title block (read by eye))

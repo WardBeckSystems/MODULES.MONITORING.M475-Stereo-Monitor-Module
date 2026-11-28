@@ -1,5 +1,5 @@
 # 1977 - 475-01-001 - MONITOR MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 2.jpg
-Wiki page: [M475](../../../../PAGES/M475.md)
+Wiki page: [M475](../)
 
 
 - **Year:** 1977 (title block date)

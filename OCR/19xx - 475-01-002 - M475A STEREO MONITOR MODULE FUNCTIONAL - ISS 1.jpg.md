@@ -1,5 +1,5 @@
 # 19xx - 475-01-002 - M475A STEREO MONITOR MODULE FUNCTIONAL - ISS 1.jpg
-Wiki page: [M475](../../../../PAGES/M475.md)
+Wiki page: [M475](../)
 
 
 - **Year:** unknown (title block (read by eye))
