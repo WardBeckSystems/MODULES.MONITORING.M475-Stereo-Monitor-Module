@@ -150,6 +150,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 475-04-004 - M475A STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg`, `19xx - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M475.stl`](MECHANICAL/M475.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M475)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1 6 " wide X 7" high X 6.5" deep. (41 Mm X 178 Mm X 165 mm))
+- **From the drawing:** 7 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M475 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M475.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
